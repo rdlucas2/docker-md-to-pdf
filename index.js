@@ -27,6 +27,8 @@ if(customCssPath) {
 
 mdpdf.convert(options).then((pdfPath) => {
     console.log('PDF Path:', pdfPath);
+    process.exit();
 }).catch((err) => {
     console.error(err);
+    process.exit();
 })
