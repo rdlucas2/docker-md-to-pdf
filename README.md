@@ -11,7 +11,7 @@ npm install
 node index.js {PATH_TO_YOUR_MARKDOWN_HERE}/README.md {PATH_TO_YOUR_MARKDOWN_HERE}/output.pdf
 ```
 
-#WORK IN DOCKER (unable to install puppeteer - not working yet)
+#WORK IN DOCKER
 ```
 docker build -t md-to-pdf:latest .
 ```
