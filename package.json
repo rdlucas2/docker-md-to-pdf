@@ -1,0 +1,15 @@
+{
+  "name": "docker-md-to-pdf",
+  "version": "1.0.0",
+  "description": "MD-to-PDF",
+  "main": "index.js",
+  "dependencies": {
+    "mdpdf": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
