@@ -1,0 +1,6 @@
+node_modules
+**/junit.xml
+coverage
+_temp.html
+output.pdf
+test-report.xml
